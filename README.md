@@ -1,3 +1,14 @@
-# udemy-typescript
+# Learnig TypeScript
 
-js -> ts migration을 위함
+- Basic
+- Core types
+- Class
+- Interface
+- Advanced types
+- Generics
+- Decorator
+- Modules
+- Name Space
+- Webpack
+- Library in TypeScript
+- React with TypeSCript
